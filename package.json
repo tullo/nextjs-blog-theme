@@ -50,5 +50,5 @@
     "typescript": "^5.0.0",
     "webpack": "^5.75.0"
   },
-  "packageManager": "yarn@3.6.0"
+  "packageManager": "yarn@3.6.2"
 }
