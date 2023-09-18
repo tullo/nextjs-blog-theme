@@ -37,7 +37,7 @@
     "react-dom": "^18.1.0",
     "remark-emoji": "^4.0.0",
     "remark-frontmatter": "^5.0.0",
-    "remark-gfm": "^3.0.1",
+    "remark-gfm": "^4.0.0",
     "remark-smartypants": "^2.0.0"
   },
   "devDependencies": {
