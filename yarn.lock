@@ -1617,9 +1617,9 @@ __metadata:
   linkType: hard
 
 "classnames@npm:^2.3.1":
-  version: 2.3.2
-  resolution: "classnames@npm:2.3.2"
-  checksum: cd50ead57b4f97436aaa9f9885c6926323efc7c2bea8e3d4eb10e4e972aa6a1cfca1c7a0e06f8a199ca7498d4339e30bb6002e589e61c9f21248cbf3e8b0b18d
+  version: 2.3.3
+  resolution: "classnames@npm:2.3.3"
+  checksum: 4e945bed777a8103994c14675c9236c984a0b1365ae4a10b4c1b177c88f37d20038b4aadc88e1d138d7a88fd453064bf546ef80f1dd4f5ec128c7445992564de
   languageName: node
   linkType: hard
 
