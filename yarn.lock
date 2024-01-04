@@ -6883,13 +6883,13 @@ __metadata:
   linkType: hard
 
 "remark-smartypants@npm:^2.0.0":
-  version: 2.0.0
-  resolution: "remark-smartypants@npm:2.0.0"
+  version: 2.1.0
+  resolution: "remark-smartypants@npm:2.1.0"
   dependencies:
     retext: "npm:^8.1.0"
-    retext-smartypants: "npm:^5.1.0"
-    unist-util-visit: "npm:^4.1.0"
-  checksum: 9097d9ab1c078f69a00484e00b88420c906b39f91030bebae630b80a7453c83a846f9af8d6969eef43d072bc3b95af3e54dc472f2c9279c888f6ac65ce782ddd
+    retext-smartypants: "npm:^5.2.0"
+    unist-util-visit: "npm:^5.0.0"
+  checksum: a8f306de1d33c55b99dd0521de139d9a986770de9930f49c221249a38c1931a6bf25412b2f789c43cfbbe1cdcafd045096255d2454c6ab5ea9c9efcf6a88bdb5
   languageName: node
   linkType: hard
 
@@ -6998,7 +6998,7 @@ __metadata:
   languageName: node
   linkType: hard
 
-"retext-smartypants@npm:^5.1.0":
+"retext-smartypants@npm:^5.2.0":
   version: 5.2.0
   resolution: "retext-smartypants@npm:5.2.0"
   dependencies:
@@ -8224,7 +8224,7 @@ __metadata:
   languageName: node
   linkType: hard
 
-"unist-util-visit@npm:^4.0.0, unist-util-visit@npm:^4.1.0":
+"unist-util-visit@npm:^4.0.0":
   version: 4.1.2
   resolution: "unist-util-visit@npm:4.1.2"
   dependencies:
