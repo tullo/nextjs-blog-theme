@@ -38,7 +38,7 @@
     "remark-emoji": "^4.0.0",
     "remark-frontmatter": "^5.0.0",
     "remark-gfm": "^4.0.0",
-    "remark-smartypants": "^2.0.0"
+    "remark-smartypants": "^3.0.0"
   },
   "devDependencies": {
     "autoprefixer": "^10.4.0",
