@@ -6954,14 +6954,14 @@ __metadata:
   linkType: hard
 
 "remark-smartypants@npm:^3.0.0":
-  version: 3.0.0
-  resolution: "remark-smartypants@npm:3.0.0"
+  version: 3.0.1
+  resolution: "remark-smartypants@npm:3.0.1"
   dependencies:
     retext: "npm:^9.0.0"
     retext-smartypants: "npm:^6.0.0"
     unified: "npm:^11.0.4"
     unist-util-visit: "npm:^5.0.0"
-  checksum: 10c0/b5f1ac40c4fb8648f52511d5e22123fe248eec7652dec353ae0cc512bb37a6f85c08b33f98a3c4861c143720375081556b70d776611766b08be5e2506435fb0b
+  checksum: 10c0/db0cc1aafa0aa6d5a599a343f0b27cf929f86051b7bcc1daa0e028ea58fd0bf195932e26f50678949562f2e0400a71c427cd15a6851b4ba76806ae457998e318
   languageName: node
   linkType: hard
 
