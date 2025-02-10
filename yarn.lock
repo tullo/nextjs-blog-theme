@@ -2370,9 +2370,9 @@ gopd@^1.0.1, gopd@^1.2.0:
   integrity sha512-ZUKRh6/kUFoAiTAtTYPZJ3hw9wNxx+BIBOijnlG9PnrJsCcSjs1wyyD6vJpaYtgnzDrKYRSqf3OO6Rfa93xsRg==
 
 got@^14.0.0:
-  version "14.4.5"
-  resolved "https://registry.yarnpkg.com/got/-/got-14.4.5.tgz#49a8b49a49a851d658b19e2d1b97e50ef8903f17"
-  integrity sha512-sq+uET8TnNKRNnjEOPJzMcxeI0irT8BBNmf+GtZcJpmhYsQM1DSKmCROUjPWKsXZ5HzwD5Cf5/RV+QD9BSTxJg==
+  version "14.4.6"
+  resolved "https://registry.yarnpkg.com/got/-/got-14.4.6.tgz#c8c4ca3250296686e47b16ec155c684e1a588348"
+  integrity sha512-rnhwfM/PhMNJ1i17k3DuDqgj0cKx3IHxBKVv/WX1uDKqrhi2Gv3l7rhPThR/Cc6uU++dD97W9c8Y0qyw9x0jag==
   dependencies:
     "@sindresorhus/is" "^7.0.1"
     "@szmarczak/http-timer" "^5.0.1"
@@ -4960,9 +4960,9 @@ type-check@^0.4.0, type-check@~0.4.0:
     prelude-ls "^1.2.1"
 
 type-fest@^4.26.1:
-  version "4.27.1"
-  resolved "https://registry.yarnpkg.com/type-fest/-/type-fest-4.27.1.tgz#618f21dfa02281b0e532fe3cf8f848f076ee2ca8"
-  integrity sha512-3Ta7CyV6daqpwuGJMJKABaUChZZejpzysZkQg1//bLRg2wKQ4duwsg3MMIsHuElq58iDqizg4DBUmK8H8wExJg==
+  version "4.34.1"
+  resolved "https://registry.yarnpkg.com/type-fest/-/type-fest-4.34.1.tgz#406a9c573cc51c3fbfee3c85742cf85c52860076"
+  integrity sha512-6kSc32kT0rbwxD6QL1CYe8IqdzN/J/ILMrNK+HMQCKH3insCDRY/3ITb0vcBss0a3t72fzh2YSzj8ko1HgwT3g==
 
 type-is@~1.6.18:
   version "1.6.18"
